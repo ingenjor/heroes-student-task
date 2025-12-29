@@ -1,0 +1,60 @@
+gitignore
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+### Eclipse ###
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+### NetBeans ###
+nbproject/
+nb-configuration.xml
+.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Gradle ###
+.gradle/
+build/
+target/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Compiled files ###
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### ИСКЛЮЧЕНИЯ для необходимых JAR-файлов ###
+!libs/heroes_task_lib-1.0-SNAPSHOT.jar
+!heroes_student_task.jar
+
+### Logs ###
+*.log
+logs/
+
+### Temp files ###
+*.tmp
+*.temp
+
+### Others ###
+*.ctxt
+.mtj.tmp/
+hs_err_pid*
+replay_pid*
+MANIFEST.MF
