@@ -1,7 +1,3 @@
-# heroes-student-task
-Реализация алгоритмов для игры Heroes
-
-
 
 # Heroes Student Task - Реализация игровых алгоритмов
 
